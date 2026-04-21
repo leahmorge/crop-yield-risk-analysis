@@ -78,8 +78,9 @@ Analyzed the relationship between storm-related crop damage and yield changes by
 
 ## How to Run
 1. Use SQL Server / SSMS
-2. Run the pipeline script to create the analysis dataset (view)
-3. Execute analysis queries in the `sql/` folder
+2. Download data files & run through the queries in the `sql/set_up` folder
+3. Run the pipeline script to create the analysis dataset (view)
+4. Execute analysis queries in the `sql/data` folder
 
 ---
 
